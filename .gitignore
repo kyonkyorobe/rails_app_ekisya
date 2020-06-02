@@ -27,3 +27,6 @@
 /config/master.key
 
 /.mysql-data
+
+# APIのキー、環境変数等を定義するファイル
+/.env
